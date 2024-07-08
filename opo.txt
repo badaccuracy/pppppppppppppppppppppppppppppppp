@@ -1,6 +1,21 @@
 title:opo
 description:pop
 
+// Marsilion-C - Envious Vorpal (god-pve)
+//notes: a tags:god-pve
+dimwishlist:item=867154247&perks=3301904089,968510818,1546637391
+
+
+// Marsilion-C - Envious Cascade (god-pve)
+//notes: a tags:god-pve
+dimwishlist:item=867154247&perks=3301904089,968510818,3751912585
+
+
+// Nullify (Adept) - PvE (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=892183998&perks=3142289711,3824105627,2458213969
+
+
 // The Recluse - hhhhh (god-pve,mnk)
 //notes: gsd tags:god-pve,mnk
 dimwishlist:item=1050806815&perks=1392496348,1885400500,2779035018,3081867624
@@ -41,6 +56,14 @@ dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
 dimwishlist:item=1453235079&perks=1840239774,106909392,3828510309,3038247973
 dimwishlist:item=1453235079&perks=1840239774,106909392,3828510309,3824105627
+
+
+// Scintillation (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1492522228&perks=2680121939,968510818,3078487919
+dimwishlist:item=1492522228&perks=2680121939,3418782618,3078487919
+dimwishlist:item=1492522228&perks=1483536627,968510818,3078487919
+dimwishlist:item=1492522228&perks=1483536627,3418782618,3078487919
 
 
 // Elsie's Rifle (god-pvp,mnk)
